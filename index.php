@@ -9,5 +9,9 @@
 <body>
     <h1>hallo world!!</h1>
     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Inventore, voluptatem? Hic unde placeat molestias alias nostrum animi temporibus, ad quibusdam vel similique ducimus blanditiis, vitae veniam inventore, officia sunt rerum.</p>
+    <ul>
+    <li>rizki</li>
+    <li>201011401819</li>
+    </ul>
 </body>
 </html>
